@@ -1,0 +1,8 @@
+torch           # HF Spaces preinstalls CUDA runtime where available
+transformers>=4.40
+gradio>=4.25
+Pillow
+matplotlib
+inflect
+requests
+gtts

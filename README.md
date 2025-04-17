@@ -1,6 +1,6 @@
 # 🖼️ Object Detection & Scene Narration
 
-[![HF Space](https://huggingface.co/spaces/just-sree/Object-Detection-and-Audio-Narration)
+[![HF Space](https://img.shields.io/badge/%F0%9F%A4%97%20View‑on‑HuggingFace-Spaces-blue)](https://huggingface.co/spaces/just-sree/Object-Detection-and-Audio-Narration)
 
 Upload a picture or paste an image URL →  
 the app will **detect objects**, draw bounding boxes, describe what it sees, and – if you like – **speak** the summary aloud.

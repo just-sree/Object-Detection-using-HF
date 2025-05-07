@@ -18,7 +18,7 @@ the app will **detect objects**, draw bounding boxes, describe what it sees, and
 ## Run locally
 
 ```bash
-git clone https://github.com/<YOU>/ObjectDetectionSpace
+git clone https://github.com/just-sree/ObjectDetectionSpace
 cd ObjectDetectionSpace
 pip install -r requirements.txt
 python app.py
